@@ -1,0 +1,11 @@
+.home{
+    padding: 0px !important;
+    margin: 0;
+}
+
+.home .upper-fold{
+
+    height: 100vh !important;
+    background-image: url('../../../public/kyle-glenn-xY4r7y-Cllo-unsplash.jpg');
+    background-size: cover;
+}
